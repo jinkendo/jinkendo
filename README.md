@@ -21,3 +21,4 @@ git push -u origin main
 ```
 
 發現vscode，用github提交。 真的麻煩
+還是配置 ssh 比較好
